@@ -99,4 +99,3 @@
         }
 
         startBtn.addEventListener('click', start);
-    </sc
